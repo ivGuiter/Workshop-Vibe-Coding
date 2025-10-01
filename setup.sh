@@ -15,6 +15,6 @@ echo "Installing Playwright browsers..."
 npx playwright install
 
 echo "Installing Playwright MCP..."
-timeout 5 npx @playwright/mcp@latest
+timeout 5 npx -y @playwright/mcp@latest
 
 echo "Setup complete! Screenshots will be saved to /tmp/playwright-mcp-output/ (symlinked as ./screenshots in this repo)"
