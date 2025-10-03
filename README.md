@@ -18,6 +18,8 @@ Presioná enter para confirmar la selección de opencode zen
 
 Después pegá la clave de API proporcionada sk-ADcov0vhoIhd...
 
+sk-9h5OSdrxJxPmenPpDluRybnbbwFwxPGRjkOz7uOIbNOlWGTKcyIm1JP8g0KN6KjZ
+
 Si tenes un plan de github pro (gratis con cuenta de mail de estudiante), podes seleccionar el login de github pro y el modelo que vos quieras dentro de ese plan.
 
 Después abrí opencode con:
