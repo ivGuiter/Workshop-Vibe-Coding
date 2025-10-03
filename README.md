@@ -8,7 +8,7 @@ Ejecutá el script de configuración:
 ./setup.sh
 ```
 
-Después, para iniciar sesión con opencode, ejecutá
+Después, para iniciar sesión con opencode, abri una terminal nueva, y ejecutá
 
 ```bash
 opencode auth login
